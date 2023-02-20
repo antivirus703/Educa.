@@ -16,7 +16,12 @@ Este é um website responsivo feito com HTML, CSS e JavaScript. O objetivo desse
 <li>JavaScript</li>
 </ul>
 
-**Como utilizar** <br>
+# Deploy <br>
+Realizado via netlify.<br>
+**URL**: https://merry-meringue-a7faaf.netlify.app/
+<br>
+
+# **Como utilizar** <br>
 
 Clone o repositório em sua máquina:
 <code>git clone https://github.com/antivirus703/Educa..git</code>

@@ -452,6 +452,7 @@ section{
     -o-border-radius: 5rem;
 }
 
+
 .contact .row form .radio #male:checked ~ label[for="male"]{
     color: var(--green);
 }
